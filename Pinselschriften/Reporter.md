@@ -4,9 +4,9 @@
 
 [<img src="https://content.staatsbibliothek-berlin.de/dms/PPN1759426253/400/0/00000005.jpg">](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1759426253&PHYSID=PHYS_0005)
 
-- Schriftprobe der Norddeutschen Schriftgießerei aus dem Jahr 1938
+- Schriftprobe der Norddeutschen Schriftgießerei aus dem Jahr 1939
 - einige Seiten in sehr hoher Auflösung, andere in schlechter Auflösung
-- eine hohe Auflösung einzelner Seiten lässt sich offenbar durch Zahlung erzwingen
+- eine höhere Auflösung einzelner Seiten lässt sich offenbar durch Zahlung erzwingen
 
 [<img src="https://content.staatsbibliothek-berlin.de/dms/PPN1759426253/400/0/00000006.jpg">](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1759426253&PHYSID=PHYS_0006)
 
@@ -16,8 +16,8 @@
 [<img src="https://content.staatsbibliothek-berlin.de/dms/PPN1759426253/400/0/00000042.jpg">](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1759426253&PHYSID=PHYS_0042)
 
 
-## Polnische Staatsbiliothek
-- einzelne Poster und Titelseiten mit der Schriftart
+## Polnische Staatsbibliothek
+- einzelne Poster und Titelseiten in der Schriftart
 - sehr gute Auflösung auch ohne Bezahlung
 
 [<img src="https://polona.pl/api/download/digital-content/c81f1b08-b647-4222-929a-bb35cf048f1a">](https://polona.pl/item-view/1387f3ff-8d67-4e2b-9ed6-8da193e27cd9?page=0)
